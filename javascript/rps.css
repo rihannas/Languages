@@ -1,0 +1,34 @@
+#container {
+    background-color: sandybrown;
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+
+label {
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+#buttons {
+    padding-top: 20px;
+    padding-left: 65px;
+}
+
+button {
+    padding: 8px;
+    border-radius: 3px;
+}
+
+#rock {
+    background-color: rgb(150, 184, 247);
+}
+
+#paper {
+    background-color: rgb(247, 150, 190);
+}
+
+#scissors {
+    background-color: rgb(150, 247, 161);
+}

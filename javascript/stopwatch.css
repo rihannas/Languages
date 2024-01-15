@@ -1,0 +1,27 @@
+#container {
+    background-color: lightpink;
+    width: 400px;
+    height: 150px;
+    border-radius: 5px;
+    padding-top: 20px;
+}
+
+label{
+    align-self: center;
+    font-size: 80px;
+    margin-left: 55px;
+    
+}
+
+#btn-container {
+    padding-top: 10px;
+    margin-left: 82px;
+}
+
+button{
+    margin-left: 20px;
+    padding: 7px;
+    border-radius: 5px;
+    background-color: lightcoral;
+    border: 2px solid rgb(4, 12, 17);
+}
